@@ -1,0 +1,11 @@
+body.article {
+  background-color: var(--white);
+  //? Теперь стили для тегов можно просто вкладывать
+  article {
+    width: 600px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 56px;
+  }
+}

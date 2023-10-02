@@ -1,0 +1,37 @@
+body.index {
+  div {
+    width: 30vw;
+  }
+}
+ul.menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+  background-color: beige;
+  li {
+    font-size: 30px;
+  }
+}
+body {
+  font-family: 'Golos Text';
+  width: 90vw;
+  margin: 0 auto;
+  h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 3vh;
+  }
+  h3 {
+    font-size: 14px;
+  }
+  p {
+    font-size: 18px;
+    margin-top: 2vh;
+  }
+  a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+  }
+}
